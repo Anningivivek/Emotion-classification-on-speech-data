@@ -100,10 +100,4 @@ weighted avg       0.91      0.90      0.90       602
 
 ---
 
-## 👨‍💻 Author
-**Vivek Anningi**
 
----
-
-## 📄 License
-This project is licensed under the MIT License.
