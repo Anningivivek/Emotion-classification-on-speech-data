@@ -6,7 +6,7 @@ This project is a complete pipeline for recognizing emotions from speech audio u
 
 ## 📚 Dataset
 
-- 📌 Source: [RAVDESS - Ryerson Audio-Visual Database of Emotional Speech and Song](https://zenodo.org/records/1188976#.XCx-tc9KhQI)
+- 📌 Source: https://zenodo.org/records/1188976#.XCx-tc9KhQI
 - 🎯 Note: The dataset is **imbalanced** — oversampling is applied to improve model performance for minority classes.
 
 ---
